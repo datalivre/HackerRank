@@ -7,7 +7,7 @@ These are my solutions to various HackerRank challenges. Some of the code may no
 
 ## HackerRank Challenges
 
-My solved challenges in [Hacker Hank](https://www.hackerrank.com/robert_n_roll).
+My solved challenges in [Hacker Rank](https://www.hackerrank.com/robert_n_roll).
 
 * Introduction
     - [x] [Say "Hello, World!" With Python](python3/Introduction/py-hello-world.py)
