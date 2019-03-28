@@ -3,13 +3,6 @@
 
 
 def swap_case(string):
-##    new_string = ''
-##    for s in string:
-##        if s.isupper():
-##            new_string += s.lower()
-##        else:
-##            new_string += s.upper()
-##    return new_string
     return string.swapcase()
 
 

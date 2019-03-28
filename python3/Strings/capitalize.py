@@ -7,10 +7,7 @@ def solve(string):
         string = string.replace(s, s.capitalize())
     return string    
 
+
 if __name__ == '__main__':
     s = input()
     print(solve(s))
-    
-    
-
-    

@@ -1,3 +1,6 @@
+# String Validators
+# https://www.hackerrank.com/challenges/string-validators/problem
+
 def string_validators(string):
     retorno = ''
     validators = ['isalnum()', 'isalpha()', 'isdigit()',
