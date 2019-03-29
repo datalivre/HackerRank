@@ -1,5 +1,8 @@
-# HackerRank
-Resolução dos desafios propostos no site HackerRank
+<p align="center">
+  <img src="HackerRank1.png" width=250/>
+</p>
+
+Resolução dos desafios propostos no site **HackerRank**
 
 Estas são as minhas soluções para vários desafios do HackerRank. Alguns dos códigos podem não ser ideais, mas eu tentei o mais pythonico que eu pude.
 
