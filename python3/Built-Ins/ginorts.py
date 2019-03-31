@@ -1,9 +1,6 @@
 # ginortS
 # https://www.hackerrank.com/challenges/ginorts/problem
 
-# ginortS
-# https://www.hackerrank.com/challenges/ginorts/problem
-
 
 def ginorts(s):
     lista = """abcdefghijklmnopqrstuvwxyz
