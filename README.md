@@ -9,6 +9,7 @@ Estas são as minhas soluções para vários desafios do HackerRank. Alguns dos 
 These are my solutions to various HackerRank challenges. Some of the code may not be ideal, but I've tried the most pythonic way that I could do.
 
 ## HackerRank Challenges
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/datalivre)
 
 My solved challenges in [Hacker Rank](https://www.hackerrank.com/robert_n_roll).
 
